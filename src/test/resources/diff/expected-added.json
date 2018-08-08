@@ -1,0 +1,11 @@
+[
+  {
+    "op": "add",
+    "path": "/store/plane",
+    "value": {
+      "type": "Cessna 162",
+      "name": "Skycatcher",
+      "wingspan": 9.26
+    }
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/store/book/0/author",
+    "value": "Hello World"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/store/book/-",
+    "value": {
+      "categorie": "Architecture",
+      "author": "Eberhard Wolff",
+      "title": "Microservices",
+      "price": 35.99
+    }
+  }
+]

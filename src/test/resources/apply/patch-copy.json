@@ -1,0 +1,7 @@
+[
+  {
+    "op": "copy",
+    "from": "/store/book/2",
+    "path": "/store/book/-"
+  }
+]
